@@ -43,11 +43,11 @@
     <table style="border: 2px solid #CBECB6; border-radius: 8px;">
     <tr>
       <td>
-        $\color{#8A78B6}{\texttt{Thank}}$ $\color{#8A78B6}{\texttt{you,}}$ $\color{#8A78B6}{\texttt{people}}$ 
-        $\color{#8A78B6}{\texttt{whom}}$ $\color{#8A78B6}{\texttt{nominated}}$  $\color{#8A78B6}{\texttt{me,}}$ 
+        $\color{#81599A}{\texttt{Thank}}$ $\color{#846ABC}{\texttt{you,}}$ $\color{#B0C3EC}{\texttt{people}}$ 
+        $\color{#81599A}{\texttt{whom}}$ $\color{#846ABC}{\texttt{nominated}}$  $\color{#B0C3EC}{\texttt{me,}}$ 
         <br>
-        $\color{#8A78B6}{\texttt{and}}$ $\color{#8A78B6}{\texttt{the}}$ $\color{#8A78B6}{\texttt{nomination}}$ 
-        $\color{#8A78B6}{\texttt{accounts!}}$ $\color{#8A78B6}{\texttt{꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡}}$
+        $\color{#81599A}{\texttt{and}}$ $\color{#846ABC}{\texttt{the}}$ $\color{#B0C3EC}{\texttt{nomination}}$ 
+        $\color{#81599A}{\texttt{accounts!}}$ $\color{#846ABC}{\texttt{꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡}}$
         <p align="left">
         <a href="https://github.com/paw-town">@paw-town</a>
         <br>
