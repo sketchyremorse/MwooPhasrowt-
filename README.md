@@ -30,7 +30,7 @@
     <br>
   <br>
   <p align="left">
-<img width="258" height="384" alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" />
+<img alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" />
   </p>
   <br>
   <br>
@@ -39,8 +39,21 @@
   </p>
 <br>
   <br>
-  <p align="left>
-    [placeholder:name_badge]
+  <p align="left">
+    <table style="border: 2px solid #CBECB6; border-radius: 8px;">
+    <tr>
+      <td>
+        $\color{#8A78B6}{\texttt{Thank}}$ $\color{#8A78B6}{\texttt{you,}}$ $\color{#8A78B6}{\texttt{people}}$ $\color{#8A78B6}{\texttt{nominated}}$ $\color{#8A78B6}{\texttt{me,}}$ $\color{#8A78B6}{\texttt{and}}$ $\color{#8A78B6}{\texttt{the}}$ $\color{#8A78B6}{\texttt{nomination}}$ $\color{#8A78B6}{\texttt{accounts!}}$ $\color{#8A78B6}{\texttt{꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡}}$
+        <p align="left">
+        <a href="https://github.com/paw-town">@paw-town</a>
+        <br>
+        <a href="https://github.com/paw-town">@paw-town</a>
+        <br>
+        <a href="https://github.com/paw-town">@paw-town</a>
+        </p>
+      </td>
+    </tr>
+</table>
   <p align="right">
 <img alt="1000001424" src="https://github.com/user-attachments/assets/d9fc0f6a-5b50-4ef7-98b7-4841c1e8efdd" />
   </p>
