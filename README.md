@@ -50,9 +50,11 @@
       <td>
         $\color{#8A78B6}{\texttt{Thank}}$ $\color{#8A78B6}{\texttt{you,}}$ $\color{#8A78B6}{\texttt{people}}$ 
         <br>
-        $\color{#8A78B6}{\texttt{whom}}$$\color{#8A78B6}{\texttt{nominated}}$ $\color{#8A78B6}{\texttt{me,}}$ 
+        $\color{#8A78B6}{\texttt{whom}}$ $\color{#8A78B6}{\texttt{nominated}}$ 
         <br>
-        $\color{#8A78B6}{\texttt{and}}$ $\color{#8A78B6}{\texttt{the}}$ $\color{#8A78B6}{\texttt{nomination}}$ 
+        $\color{#8A78B6}{\texttt{me,}}$ $\color{#8A78B6}{\texttt{and}}$
+        <br>
+         $\color{#8A78B6}{\texttt{the}}$ $\color{#8A78B6}{\texttt{nomination}}$ 
         <br>
         $\color{#8A78B6}{\texttt{accounts!}}$ $\color{#8A78B6}{\texttt{꒰⁠⑅⁠ᵕ⁠༚⁠ᵕ⁠꒱⁠˖⁠♡}}$
         <p align="left">
