@@ -22,14 +22,41 @@
   <p align="right">
   <img alt="1000001427" src="https://github.com/user-attachments/assets/d79d5271-4bbe-454d-be1c-14d631181710" />
   </p>
-
-  <img width="1018" height="320" alt="1000001428" src="https://github.com/user-attachments/assets/6c405f9c-02a6-4229-acf7-87ce5bccb67f" />
-<img width="1279" height="139" alt="1000001423" src="https://github.com/user-attachments/assets/c50792c6-6d52-4d92-a03c-b69402a6de60" />
+<br>
+  <br>
+  <p align="center">
+  <img alt="1000001423" src="https://github.com/user-attachments/assets/c50792c6-6d52-4d92-a03c-b69402a6de60" />
+  </p>
+    <br>
+  <br>
+  <p align="left">
 <img width="258" height="384" alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" />
-<img width="488" height="402" alt="1000001424" src="https://github.com/user-attachments/assets/d9fc0f6a-5b50-4ef7-98b7-4841c1e8efdd" />
-
+  </p>
+  <br>
+  <br>
+  <p align="center">
+<img alt="1000001423" src="https://github.com/user-attachments/assets/c50792c6-6d52-4d92-a03c-b69402a6de60" />
+  </p>
+<br>
+  <br>
+  <p align="left>
+    [placeholder:name_badge]
+  <p align="right">
+<img alt="1000001424" src="https://github.com/user-attachments/assets/d9fc0f6a-5b50-4ef7-98b7-4841c1e8efdd" />
+  </p>
+  <br>
+  <br>
+  <p align="center">
+<img alt="1000001423" src="https://github.com/user-attachments/assets/c50792c6-6d52-4d92-a03c-b69402a6de60" />
+  </p>
+<br>
+  <br>
+  <p align="center">
+<img alt="1000001428" src="https://github.com/user-attachments/assets/6c405f9c-02a6-4229-acf7-87ce5bccb67f" />
+  </p>
 <br>
 <br>
+  <p align="center">
   <img alt="1000001433" src="https://github.com/user-attachments/assets/09558cd5-d3b5-4950-94cb-8cc3ed656e45" />
-
+  </p>
 </div>
