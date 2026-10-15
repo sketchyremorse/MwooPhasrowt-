@@ -40,11 +40,6 @@
 <br>
   <br>
   <p align="right">
-<img alt="1000001424" src="https://github.com/user-attachments/assets/d9fc0f6a-5b50-4ef7-98b7-4841c1e8efdd" />
-  </p>
-  <br>
-  <br>
-  <p align="left">
     <table style="border: 2px solid #CBECB6; border-radius: 8px;">
     <tr>
       <td>
@@ -67,7 +62,8 @@
       </td>
     </tr>
 </table>
-</p>
+<img alt="1000001424" src="https://github.com/user-attachments/assets/d9fc0f6a-5b50-4ef7-98b7-4841c1e8efdd" />
+  </p>
   <br>
   <br>
   <p align="center">
