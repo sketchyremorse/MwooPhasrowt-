@@ -22,20 +22,21 @@
   
   ## ABOUT ME 
   <p align="left">
-    $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{Phase ༉  .ᐟ ★
-    }}$
-    <br>
-    <br>
-        $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{age ༉  .ᐟ ★
-    }}$
-    <br>
-  <br>
-        $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{education grade༉  .ᐟ ★
-    }}$
-    <br>
-    <br>
-    
+    $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{Phase ༉  .ᐟ ★}}$
+  </p>
+  <p align="right">    
+        $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{age ༉  .ᐟ ★}}$
+  </p>
+  <p align="left">
+    $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{pronouns ༉  .ᐟ ★}}$
+  </p>
   <p align="right">
+    $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{RS status ༉  .ᐟ ★}}$
+  </p>
+    <p align="left">
+        $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{education grade༉  .ᐟ ★}}$<br><br>
+  </p>
+  <p align="center">
   <img alt="1000001427" src="https://github.com/user-attachments/assets/d79d5271-4bbe-454d-be1c-14d631181710" />
   </p>
 <br>
