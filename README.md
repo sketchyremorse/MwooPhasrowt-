@@ -19,6 +19,22 @@
   </p>
   <br>
   <br>
+  
+  ## ABOUT ME 
+  <p align="left">
+    $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{Phase ༉  .ᐟ ★
+    }}$
+    <br>
+    <br>
+        $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{age ༉  .ᐟ ★
+    }}$
+    <br>
+  <br>
+        $\color{#81599A}{\texttt{♯ ⋮  𝄞 }}$ $\color{#B0C3EC}{\texttt{education grade༉  .ᐟ ★
+    }}$
+    <br>
+    <br>
+    
   <p align="right">
   <img alt="1000001427" src="https://github.com/user-attachments/assets/d79d5271-4bbe-454d-be1c-14d631181710" />
   </p>
@@ -51,9 +67,9 @@
         <p align="left">
         <a href="https://github.com/paw-town">@paw-town</a>
         <br>
-        <a href="https://github.com/paw-town">@paw-town</a>
+        <a href="https://github.com/entitlement-town">@entitlement-town</a>
         <br>
-        <a href="https://github.com/paw-town">@paw-town</a>
+        <a href="https://github.com/charactersofpt">@charactersofpt</a>
         </p>
       </td>
 <td>
