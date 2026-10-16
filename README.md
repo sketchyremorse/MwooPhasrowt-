@@ -45,15 +45,23 @@
   <img alt="1000001423" src="https://github.com/user-attachments/assets/c50792c6-6d52-4d92-a03c-b69402a6de60" />
   </p>
     <br>
+    <br>
+    <img width="99" height="56" alt="1000001414" src="https://github.com/user-attachments/assets/b04b2b69-5d72-46e4-94a4-6be4344dd2bd" />
+<img width="101" height="57" alt="1000001412" src="https://github.com/user-attachments/assets/7e4a3abb-6702-48a7-b824-5e256a215960" />
+<img width="99" height="56" alt="1000001413" src="https://github.com/user-attachments/assets/8a227e1c-4271-46b6-80ce-12562f20fd97" />
+
   <br>
   <br>
     <a href=""><img alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" align="left"></img></a> <br>
 <br>
-<sub>(WIP) refer to my links!</sub>
+<p align="center">
+<sub>Refer to my links!</sub>
 <br>
-[<img width="200" height="200" alt="1000000833" src="https://github.com/user-attachments/assets/d87e4b44-adb1-49a2-886c-52b454ec333f" />](https://multivisionary.atabook.org/)
-[<img width="200" height="200" alt="1000000832" src="https://github.com/user-attachments/assets/cbab3be7-f87e-4f36-948c-592070f67cc1" />](https://github.com/sketchyremorse)
-[<img width="200" height="200" alt="1000000852" src="https://github.com/user-attachments/assets/d9764f90-58a7-471d-b54a-71182a7d73a4" />](https://pixelatedarchives.straw.page)
+<a href="https://">@placeholder.atabook</a>
+<a href="https://">@placeholder.strawpage</a>
+<a href="https://">@placeholder.prns.pg</a>
+<a href="https://">@placeholder.discord</a> 
+</p>
   <br>
   <br>
   <br>
