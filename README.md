@@ -46,9 +46,15 @@
   </p>
     <br>
   <br>
-  <p align="left">
-<img alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" />
-  </p>
+  <br>
+    <a href=""><img alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" align="left"></img></a> <br>
+<br>
+<sub>(WIP) refer to my links!</sub>
+<br>
+[<img width="200" height="200" alt="1000000833" src="https://github.com/user-attachments/assets/d87e4b44-adb1-49a2-886c-52b454ec333f" />](https://multivisionary.atabook.org/)
+[<img width="200" height="200" alt="1000000832" src="https://github.com/user-attachments/assets/cbab3be7-f87e-4f36-948c-592070f67cc1" />](https://github.com/sketchyremorse)
+[<img width="200" height="200" alt="1000000852" src="https://github.com/user-attachments/assets/d9764f90-58a7-471d-b54a-71182a7d73a4" />](https://pixelatedarchives.straw.page)
+  <br>
   <br>
   <br>
   <p align="center">
