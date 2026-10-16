@@ -57,10 +57,10 @@
 <p align="center">
 <sub>Refer to my links!</sub>
 <br>
-<a href="https://">@placeholder.atabook</a>
-<a href="https://">@placeholder.strawpage</a>
-<a href="https://">@placeholder.prns.pg</a>
-<a href="https://">@placeholder.discord</a> 
+<a href="https://">@placeholder.atabook</a><br>
+<a href="https://">@placeholder.strawpage</a><br>
+<a href="https://">@placeholder.prns.pg</a><br>
+<a href="https://">@placeholder.discord</a> <br>
 </p>
   <br>
   <br>
