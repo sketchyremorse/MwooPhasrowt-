@@ -3,7 +3,7 @@
 <br>
 <br>
   <p align="center">
-  [placeholder]
+  <img alt="Untitled89_20261016104027" src="https://github.com/user-attachments/assets/ae4d819d-e2fc-4dba-b850-ba0f20476cc8" />
 </p>
 <br>
 <br>
@@ -55,7 +55,7 @@
     <a href=""><img alt="1000001425" src="https://github.com/user-attachments/assets/29a2bf84-9571-45d1-b531-be8dcc513fed" align="left"></img></a> <br>
 <br>
 <p align="center">
-<sub>Refer to my links!</sub>
+<sub>$\color{#B0C3EC}{\texttt{Refer to my links!}}$</sub>
 <br>
 <a href="https://">@placeholder.atabook</a><br>
 <a href="https://">@placeholder.strawpage</a><br>
