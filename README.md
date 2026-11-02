@@ -105,7 +105,16 @@
   </p>
   <br>
   <p align="center">
-    <kbd>Ren</kbd>
+    <table>
+      <tr>
+        <tr>
+          moe friends!!
+          <td>
+            my frienfwhb
+          </td>
+        </tr>
+      </tr>
+    </table>
 <br>
 <br>
   <p align="center">
