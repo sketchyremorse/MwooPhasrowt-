@@ -115,6 +115,22 @@
         </tr>
       </tr>
     </table>
+    <br>
+  <br>
+  <p align="center">
+<img alt="1000001423" src="https://github.com/user-attachments/assets/c50792c6-6d52-4d92-a03c-b69402a6de60" />
+  </p>
+  <br>
+  <br>
+<table>
+  <tr>
+    <td>
+      $\color{#B0C3EC}{\texttt{Thank You! (⁠≧⁠▽⁠≦⁠)}}$
+      <br>
+      <img alt="Untitled100_20261103161853" src="https://github.com/user-attachments/assets/8d27996e-da4a-4f3c-a9f5-efbdf0e70005" />
+    </td>
+  </tr>
+</table>
 <br>
 <br>
   <p align="center">
