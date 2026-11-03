@@ -125,9 +125,11 @@
 <table>
   <tr>
     <td>
+      <p align="center">
       $\color{#B0C3EC}{\texttt{Thank You! (⁠≧⁠▽⁠≦⁠)}}$
       <br>
       <img alt="Untitled100_20261103161853" src="https://github.com/user-attachments/assets/8d27996e-da4a-4f3c-a9f5-efbdf0e70005" />
+      </p>
     </td>
   </tr>
 </table>
