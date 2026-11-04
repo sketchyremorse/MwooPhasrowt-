@@ -19,6 +19,10 @@
   </p>
   <br>
   <br>
+<img width="113" height="18" alt="30" src="https://github.com/user-attachments/assets/51ad58d1-e798-404f-80be-ddebd682f029" />
+
+  <br>
+  <br>
   
   ## ABOUT ME 
   <p align="left">
